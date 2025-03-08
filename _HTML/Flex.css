@@ -1,0 +1,15 @@
+.parent {
+     padding:25px; 
+    background-color: blanchedalmond;
+    display:flex;
+}
+
+.child{
+
+    border: 2px solid red;
+    background: rgb(205, 205, 180);
+    padding:20px;
+    font-size:18;
+    margin:10px 0;
+
+}
